@@ -2,7 +2,7 @@
 Feito com a ajuda de Diego Fernandes da Rocketseat. *Semana OmniStack 7.0*.
 
 ## Interface
-- [Repositório](https://github.com/Maycon-PE/InstaDev-Frontend "InstaDev-Frontend").
+- [Repositório](https://github.com/JoseMayconHS/instadev-frontend "InstaDev-Frontend").
 
 
 ## Características
